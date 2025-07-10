@@ -50,14 +50,13 @@ Built a fully interactive, filterable dashboard in Excel using:
 
 ### 4️⃣ Challenges Faced & Business Gaps Identified
 
-| Area                 | Challenge                                                                                                                                                       |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------                                       |
-| **Regional Gap**     | South Kolkata lags behind (₹ 23.8 M vs. ₹ 27.4 M in North). Needs **targeted promotions and SKU realignment**.                                                  |
-| **Temporal Drop**    | Revenue dip observed in Q4 2024 (₹ 79.5 L). Indicates **weak festive strategies** or **clearance stock inefficiencies**.                                        |
-| **Sales Rep Gaps**   | Wide productivity range: SP013 (₹ 7.1k avg) vs. SP015 (₹ 4.3k). Suggests **uneven territory allocation/training gaps**.                                         |
-| **SKU Inefficiency** | Over 20 SKUs sold < 700 units. Calls for **SKU optimization** to avoid inventory waste.                                                                         |
-| **Payment Handling** | The store sees an imbalanced payment distribution: Digital payment (67%), and Cash (33%).
-A significant skewness has been observed toward digital payment, suggesting an opportunity to promote digital wallet incentives.. **Digital wallet incentive schemes** can increase adoption. |
+| Area                 | Challenge                                                                                                                                                                                                         |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------                                                                                         |
+| **Regional Gap**     | South Kolkata lags behind (₹ 23.8 M vs. ₹ 27.4 M in North). Needs **targeted promotions and SKU realignment**.                                                                                                    |
+| **Temporal Drop**    | Revenue dip observed in Q4 2024 (₹ 79.5 L). Indicates **weak festive strategies** or **clearance stock inefficiencies**.                                                                                          |
+| **Sales Rep Gaps**   | Wide productivity range: SP013 (₹ 7.1k avg) vs. SP015 (₹ 4.3k). Suggests **uneven territory allocation/training gaps**.                                                                                           |
+| **SKU Inefficiency** | Over 20 SKUs sold < 700 units. Calls for **SKU optimization** to avoid inventory waste.                                                                                                                           |
+| **Payment Handling** | The store sees an imbalanced payment distribution: Digital payment (67%), and Cash (33%). A significant skewness has been observed toward digital payment, suggesting an opportunity to promote digital wallet    |                              incentives. **Digital wallet incentive schemes** can increase adoption.                                                                                                                                        |
 
 ---
 
