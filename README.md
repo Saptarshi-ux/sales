@@ -1,12 +1,12 @@
 
-## 🧾 **Departmental Store Sales Dashboard (Python + Excel) — Project Report**
+##  **Departmental Store Sales Dashboard (Python + Excel) — Project Report**
 
 **Objective:**
 To simulate and visualize 3-year sales data (2022–2024) for departmental stores across Kolkata using Python-generated data and Excel-based reporting, designed for Sales Supervisors and Product Managers.
 
 ---
 
-### 1️⃣ Data Generation & Business Understanding
+### Data Generation & Business Understanding:-
 
 As an Economics graduate, I began by understanding the **consumption basket of West Bengal households** and analyzing real-world **departmental store operations**. I identified common transactional attributes: product category, item names, pricing bands, payment methods, and regional sales distinctions.
 
@@ -22,7 +22,7 @@ The dataset included fields like `Date`, `Store Location`, `Sales Rep`, `Product
 
 ---
 
-### 2️⃣ Dashboard Design (Excel)
+### Dashboard Design (Excel)
 
 Built a fully interactive, filterable dashboard in Excel using:
 
@@ -34,7 +34,7 @@ Built a fully interactive, filterable dashboard in Excel using:
 
 ---
 
-### 3️⃣ Key Performance Metrics
+### Key Performance Metrics:-
 
 | Metric                       | Value                     |
 | ---------------------------- | ------------------------- |
@@ -48,7 +48,7 @@ Built a fully interactive, filterable dashboard in Excel using:
 
 ---
 
-### 4️⃣ Challenges Faced & Business Gaps Identified
+### Challenges Faced & Business Gaps Identified:-
 
 | Area                 | Challenge                                                                                                                                                                                                         |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------                                                                                         |
@@ -60,7 +60,7 @@ Built a fully interactive, filterable dashboard in Excel using:
 
 ---
 
-### 5️⃣ Outcomes & Value Delivered
+### Outcomes & Value Delivered:-
 
 * Delivered an **interactive Excel dashboard** summarizing performance by category, product, region, time, and salesperson.
 * Enabled **data-driven insights** for sales planning, resource deployment, and promotional strategies.
@@ -68,7 +68,7 @@ Built a fully interactive, filterable dashboard in Excel using:
 
 ---
 
-### ✅ Key Tools & Skills Demonstrated
+### Key Tools & Skills Demonstrated:-
 
 * **Python (Data Simulation):** pandas, datetime, random
 * **Excel (BI Reporting):** PivotTables, dynamic formulas, slicers, dashboarding
