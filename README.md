@@ -1,7 +1,7 @@
 
-##  **Departmental Store Sales Dashboard (Python + Excel) — Project Report**
+##  **Departmental Store Sales Dashboard (Python + Excel) Project Report**
 
-**Objective:**
+**Objective:-**
 To simulate and visualize 3-year sales data (2022–2024) for departmental stores across Kolkata using Python-generated data and Excel-based reporting, designed for Sales Supervisors and Product Managers.
 
 ---
