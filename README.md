@@ -5,7 +5,10 @@
 To simulate and visualize 3-year sales data (2022–2024) for departmental stores across Kolkata using Python-generated data and Excel-based reporting, designed for Sales Supervisors and Product Managers.
 
 ---
+### the dashboard is:
+<img width="1213" height="729" alt="image" src="https://github.com/user-attachments/assets/1d48b67f-570b-48a0-9e75-e3fcff1a9e82" />
 
+---
 ### Data Generation & Business Understanding:-
 
 As an Economics graduate, I began by understanding the **consumption basket of West Bengal households** and analyzing real-world **departmental store operations**. I identified common transactional attributes: product category, item names, pricing bands, payment methods, and regional sales distinctions.
